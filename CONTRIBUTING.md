@@ -1,6 +1,3 @@
-Here’s a **simple `CONTRIBUTING.md`** file tailored for Columbia University students working on the DataElf chatbot as a side or summer project. You can refine this later as needed.  
-
----
 
 ### **📌 DataElf Chatbot - Contribution Guidelines**  
 
